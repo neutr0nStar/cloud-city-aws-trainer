@@ -2,6 +2,14 @@
 
 A 3D, browser-based trainer for the AWS Solutions Architect Associate (SAA-C03) exam. No build step, built with Three.js.
 
+![Landing screen](docs/screenshots/intro.png)
+
+| Explore the city | Architect missions |
+|---|---|
+| ![Explore](docs/screenshots/explore.png) | ![Mission](docs/screenshots/mission.png) |
+
+![Exam drill](docs/screenshots/quiz.png)
+
 - **Explore:** fly over a city of 8 districts and click any of 68 AWS services (each a unique 3D model) for an exam-focused flashcard.
 - **Architect Missions:** design architectures for client scenarios (DDoS, traffic spikes, AZ outages) with hints, then deploy and watch traffic flow.
 - **Exam Drill:** 45 exam-style questions with explanations.
